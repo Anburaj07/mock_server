@@ -18,5 +18,12 @@
         "age": 49,
         "email": "wwilstead2@tripadvisor.com"
       }      
+    ],
+    "universities":[
+        {
+            "id":1,
+            "universityName":"Abertay University",
+            "fee":"100"
+        }
     ]
   }
