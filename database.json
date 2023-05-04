@@ -22,8 +22,43 @@
     "universities":[
         {
             "id":1,
-            "universityName":"Abertay University",
-            "fee":"100"
+            "universityName":"Abertay University"
+        },
+        {
+            "id":2,
+            "universityName":"Aalborg Universitet"
+        },
+        {
+            "id":3,
+            "universityName":"Aalto-yliopisto"
+        },
+        {
+            "id":4,
+            "universityName":" Abhilashi University"
+        },
+        {
+            "id":5,
+            "universityName":"Arts University Plymouth"
+        },
+        {
+            "id":6,
+            "universityName":"Aston Universitet"
+        },
+        {
+            "id":7,
+            "universityName":"Aalto-yliopisto"
+        },
+        {
+            "id":8,
+            "universityName":"All Saints University Lango"
+        },
+        {
+            "id":9,
+            "universityName":"Ambedkar University Delhi"
+        },
+        {
+            "id":10,
+            "universityName":"American University of Technology"
         }
     ]
   }
